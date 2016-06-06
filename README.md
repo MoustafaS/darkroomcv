@@ -8,6 +8,7 @@ your browser, such as **rotation** or **cropping**. It is based on the awesome
 [FabricJS](http://fabricjs.com/) library to handle images in HTML5 canvas.
 
 ##### This library is extending it by adding more plugins for computer vision filters and algorithms.
+Computer vision filters are done using the [jsfeat](https://github.com/inspirit/jsfeat) library.
 
 ## Demo
 
