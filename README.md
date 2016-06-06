@@ -14,6 +14,8 @@ Computer vision filters are done using the [jsfeat](https://github.com/inspirit/
 
 Try the online demo of the orginal DarkroomJS at [http://mattketmo.github.io/darkroomjs](http://mattketmo.github.io/darkroomjs/)
 
+Try the online demo of this library at [http://www.elgom3a.com/post/online-computer-vision-toolbox](http://www.elgom3a.com/post/online-computer-vision-toolbox)
+
 ## Building
 
 - Install [Node](http://nodejs.org/) & `npm`.
