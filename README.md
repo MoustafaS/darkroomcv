@@ -3,6 +3,8 @@
 ![Bower](https://img.shields.io/bower/v/darkroom.svg)
 ![License MIT](http://img.shields.io/badge/license-MIT-blue.svg)
 
+DarkroomCV is a simple online image editor with some computer vision filters, written completely in javascript based on DarkroomJS.
+
 DarkroomJS is a JavaScript library which provides basic image editing tools in
 your browser, such as **rotation** or **cropping**. It is based on the awesome
 [FabricJS](http://fabricjs.com/) library to handle images in HTML5 canvas.
