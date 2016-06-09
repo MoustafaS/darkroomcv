@@ -1,6 +1,5 @@
 # DarkroomCV
 
-![Bower](https://img.shields.io/bower/v/darkroom.svg)
 ![License MIT](http://img.shields.io/badge/license-MIT-blue.svg)
 
 DarkroomCV is a simple online image editor with some computer vision filters, written completely in javascript based on DarkroomJS.
